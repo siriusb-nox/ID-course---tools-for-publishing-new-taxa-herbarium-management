@@ -1,5 +1,5 @@
 # ID-course---tools-for-publishing-new-taxa-herbarium-management
 ENG:
-This repository provides copyright-free presentations and certificates of the "Plant Identification course, tools for publishing new taxa &amp; and herbarium management" which took place in February 19-23, 2018 - Tunja, Colombia
+This repository provides copyright-free presentations and certificates of the "Plant Identification course, tools for publishing new taxa &amp; and herbarium management" which took place in February 19-23, 2018 - Tunja, Colombia. Presentations are arranged by family/order names (e.g. "Orchids_blabla", "Cyperaceae_blabla"). Certificates are arranged by last and first names of each participant (e.g. "Pinzon_Cynthia_certificate.pdf").
 ESP:
-Este repositorio incluye las presentaciones libres de copyright mas los certificados del curso "Identificación de plantas, herramientas para la publicacion de nuevas especies, y buenas practicas de manejo de herbario", celebrado en Tunja los días 19al 23 de Febrero, 2018
+Este repositorio incluye las presentaciones libres de copyright mas los certificados del curso "Identificación de plantas, herramientas para la publicacion de nuevas especies, y buenas practicas de manejo de herbario", celebrado en Tunja los días 19al 23 de Febrero, 2018. Las presentaciones estan nombradas por los nombres de familia/orden (e.g. "Orchids_blabla", "Cyperaceae_blabla"). Los certificados estan nombrados por el apellido y el primer nombre de cada parcitipante (e.g. "Pinzon_Cynthia_certificate.pdf").
